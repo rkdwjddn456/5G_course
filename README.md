@@ -2,7 +2,7 @@
 
 1. 라즈베리파이 미니 프로젝트
 
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=V28PjptiURo
 
 2. bebop parrot2 프로젝트(시뮬레이션)
 
